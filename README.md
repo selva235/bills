@@ -9,7 +9,7 @@ POST: http://localhost:8084/bills
 	"billedTo" : "selva",
 	"billedDate" : "26-11-21",
 	"billedPrice" : 20,
-	"taxOnBill" : 10.2,
+	"taxOnBill" : 10.2
 	"totalPrice" : 20
 }
 ------------------------------------------
